@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An encomiastick and congratulatory poem on the glorious and peaceable return of His Sacred Majesty King William III into England 1697</title>
+            <author>Thomas, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10132</idno>
+            <idno type="STC">Wing T965</idno>
+            <idno type="STC">ESTC R184981</idno>
+            <idno type="EEBO-CITATION">62369705</idno>
+            <idno type="OCLC">ocm 62369705</idno>
+            <idno type="VID">188149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188149)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2856:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An encomiastick and congratulatory poem on the glorious and peaceable return of His Sacred Majesty King William III into England 1697</title>
+                  <author>Thomas, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Bradford in Little Britain over against the Pump,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: "Sic lætabundus cecinit, Joh. Thomas."</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:188149:1" rendition="simple:additions"/>
+            <head>AN <hi>Encomiaſtick and Congratulatory Poem.</hi> On the Glorious and Peaceable Return of His Sacred MAJESTY KING WILLIAM III. Into <hi>ENGLAND,</hi> 1697.</head>
+            <lg>
+               <l>I Sing not <hi>Hannibal's,</hi> nor <hi>Caeſar's</hi> Fate,</l>
+               <l>Nor do I Brave <hi>Adolphus</hi> Celebrate,</l>
+               <l>Full of Extatic Valour out of Breath,</l>
+               <l>That Nobly Conquering Ttiumph'd after Death;</l>
+               <l>But that great Hero, who ſurpaſſes far</l>
+               <l>Him, who was ſtyl'd the Thunder-bolt of War.</l>
+               <l>Recovering drooping, Europe, makes War ceas,</l>
+               <l>Healing its Bloody Wounds with Balms of Peace.</l>
+               <l>The Glittering <hi>Macedonian</hi> Swords and Shields</l>
+               <l>Struck mighty Terror thro the <hi>Perſian</hi> Fields,</l>
+               <l>
+                  <hi>Darius</hi> t' <hi>Alexander</hi> fairly yields.</l>
+            </lg>
+            <lg>
+               <l>The Heavenly Hoſts, that do aſſiſt you ſtill,</l>
+               <l>O may thoſe Guardian Angels guide my Quill,</l>
+               <l>And claſp me with their Wings in endleſs Fame,</l>
+               <l>Great Monarch, whilſt I have You for my Theam;</l>
+               <l>Whom by Philoſophy we truly call.</l>
+               <l>The Worlds great Genius, Univerſal Soul.</l>
+               <l>Your brave Heroic Acts, and <hi>Naſſau's</hi> Name</l>
+               <l>Are fled through th' Earth, on th' airy wings of Fame;</l>
+               <l>Fame, which altho' ſhe dares ſom Kings belie,</l>
+               <l>Yet cares not, can't bely your Majeſty,</l>
+               <l>As far beyond Poetic Flattery.</l>
+               <l>For the Imperial <hi>Czar</hi> of <hi>Muſcovy</hi>
+               </l>
+               <l>Pays civil Homage to your Majeſty;</l>
+               <l>As <hi>Cheha's</hi> Queen's Ambition led her on,</l>
+               <l>To pay a Viſit to great <hi>Solomon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>We almoſt (e're You to our Reſcue came,)</l>
+               <l>To th' Roman Eagle as a Prey became,</l>
+               <l>Our Helpleſs, Hopeleſs, Forlorn Caſe did ſhew</l>
+               <l>Nothing was wanting but the Murthering blow.</l>
+               <l>Som Men t' adore thoſe <hi>Crocodiles</hi> were free,</l>
+               <l>Whoſe Tears were falſe as their Hypocryſie.</l>
+               <l>
+                  <hi>Aſtraea</hi> ſaw't, and Bluſhing vail'd her Head,</l>
+               <l>The Goddeſs ſigh'd, and then away ſhe fled.</l>
+               <l>Upſtart Aegyptian Gods, (like Waſps or Bees)</l>
+               <l>Did ſting and plague us with their Prodigies.</l>
+               <l>When You, our great <hi>Apollo,</hi> would appear,</l>
+               <l>Theſe Locuſts fled away in leſs then half a Year.</l>
+               <l>Conſcious of their own Guilt, without delay,</l>
+               <l>(Like crawling Vermines) ſlily ſneakt away.</l>
+               <l>As on the Womb o'th' uncreated Maſs,</l>
+               <l>Thick Darkneſs ſat, Huddled in heaps, as 'twas,</l>
+               <l>Till Light appear'd, chac'd it away, to ſhew</l>
+               <l>Nothing ſo Welcom as it ſelf, but You.</l>
+               <l>So Heaven on us with Storms and anger frown'd,</l>
+               <l>And Floods of Woes our Iſland almoſt drown'd,</l>
+               <l>As Sinking Boats, t' eſcape we ſtriv'd in vain,</l>
+               <l>From the profound Embraces of the Main.</l>
+               <l>Till your Victorious Hand the Scepter bore,</l>
+               <l>And (Great Dictator) did our Peace reſtore,</l>
+               <l>And 'Stabliſh'd us more firmly than before.</l>
+            </lg>
+            <lg>
+               <l>Cowards do dread the Grim, Pale Face of Death,</l>
+               <l>Who foil'd by't, are but ſqueezed out of Breath,</l>
+               <l>You took delight in Trumpet's Martial Sounds,</l>
+               <l>More then the Muſic of the Horn and Hounds;</l>
+               <l>Whilſt you purſu'd your Foes, a nobler Chaſe,</l>
+               <l>Your Royal Soul was wing'd in Honour's Race.</l>
+               <l>In Onſets Ferce, in your Encounters Brave,</l>
+               <l>Potent t' o'recome, moſt Merciful to ſave.</l>
+               <l>You, ſecond <hi>Scanderbeg,</hi> for Europe's good,</l>
+               <l>Fearleſs in many dreadful Battles ſtood;</l>
+               <l>Undaunted, undiſmay'd, You, You it was</l>
+               <l>Out-dar'd the Thunder of the roaring Braſs;</l>
+               <l>Made Death to Tremble, made your Foes to fly,</l>
+               <l>Som proſtrate Vaſſals at your Feet did ly,</l>
+               <l>Whilſt Thouſands did yield up the Ghoſt, and dy.</l>
+            </lg>
+            <lg>
+               <l>Juſt Wars are made, to make unjuſt Wars ceas,</l>
+               <l>King <hi>William</hi>'s War was thus the means of Peace.</l>
+               <l>Somtimes the moſt ungrateful Diſcords throng.</l>
+               <l>And tune themſelves into the ſweeteſt Song.</l>
+               <l>
+                  <q rend="inline">So broken Bones being heal'd, becom more ſound,</q>
+               </l>
+               <l>
+                  <q rend="inline">And <hi>Hydra</hi> ſtronger from its fruitful Wound.</q>
+               </l>
+            </lg>
+            <lg>
+               <l>If Death be ſweet by fighting for our King,</l>
+               <l>If to be Conquer'd be a noble Thing?</l>
+               <l>To Live, how joyful is it? Can there be</l>
+               <l>A greater Honour then in Victory?</l>
+               <l>For in the higheſt Tow'ring flight of Kings,</l>
+               <l>Both Victory and Triumph are the Wings,</l>
+               <l>By which they mount to Heaven; and 'tis this</l>
+               <l>That is their proper Apotheoſis.</l>
+               <l>'Twixt God and Kings this is the greateſt Odds,</l>
+               <l>God an immortal King, Kings Mortal Gods.</l>
+               <l>My Soul I vote unto the Deity,</l>
+               <l>And to your Majeſty my Loyalty.</l>
+            </lg>
+            <lg>
+               <l>All Joy to <hi>Caeſar,</hi> Loyaliſts begin</l>
+               <l>To play upon the Harp and Violin.</l>
+               <l>We rock each Steeple through the Land, for now</l>
+               <l>
+                  <hi>Englands</hi> a Ringing Iſland, caus of you.</l>
+               <l>Loud Acclamations meet you every where,</l>
+               <l>Vollies of Huzza's Eccho in the Air.</l>
+               <l>Hail King Triumphant! Glorious, Great and Good;</l>
+               <l>You hear the natural Muſic of the Wood.</l>
+               <l>The Trumpets clangor, and Drums loudly beat,</l>
+               <l>From <hi>Mars</hi> his Field the Souldiers now Retreat.</l>
+               <l>And Cannon's loud Report ſo rends the Sky<g ref="char:punc">▪</g>
+               </l>
+               <l>That chirping Birds drop down as they do fly,</l>
+               <l>Which Surfeit with exceſs of Joy, and dye.</l>
+               <l>
+                  <q rend="inline">So Rivers loſe themſelves, when ſwoln too high,</q>
+               </l>
+               <l>
+                  <q rend="inline">And in their Union with the Ocean dye.</q>
+               </l>
+            </lg>
+            <lg>
+               <l>Huſh'd in a bliſsful Peace, ſecure we ſleep,</l>
+               <l>Our Guardian Angels conſtant Watch do keep.</l>
+               <l>Our Raviſhing, Tranſcendent Joy does prove</l>
+               <l>Our Church Below, Triumphant; as Above.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Vive le Roy,</hi> Traitors to Hell are ſent,</l>
+               <l>If their Repentance may not it prevent.</l>
+               <l>Let not the Feet againſt the Head rebel,</l>
+               <l>So <hi>Lucifer</hi> (by Pride) from Heaven fell,</l>
+               <l>To be a Devil in the Pit of Hell.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Sic Laetabundus cecinit,</hi> Joh. Thomas</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Bradford</hi> in <hi>Little Britain</hi> over againſt the Pump. 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
